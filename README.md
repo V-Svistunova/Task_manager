@@ -23,28 +23,28 @@
 
 ### 1. Клонировать репозиторий
 
-```bash
-git clone https://github.com/your-username/task-manager.git
+```
+git clone https://github.com/V-Svistunova/Task_manager.git
 cd task-manager
 ```
 
 ## 2. Установить зависимости
 
-```bash
+```
 npm install
 # или
 yarn install
 ```
 
 ## 3. Запустить приложение
-```bash
+```
 npm run dev
 # или
 yarn dev
 
 ```
 ## 4. Запустить приложение
-```bash
+```
 http://localhost:3000
 ```
 
@@ -52,7 +52,7 @@ http://localhost:3000
 Приложение использует простую локальную авторизацию. После входа данные сохраняются в localStorage и cookie.
 
 ## Тестовые учётные данные:
-```bash
+```
 Email:    test@mail.com
 Пароль:  123456
 ```
