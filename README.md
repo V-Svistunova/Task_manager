@@ -25,7 +25,7 @@
 
 ```
 git clone https://github.com/V-Svistunova/Task_manager.git
-cd task-manager
+cd Task_manager
 ```
 
 ## 2. Установить зависимости
